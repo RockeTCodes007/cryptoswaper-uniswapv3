@@ -1,6 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# USE
+You can use this to swap tokens on Polygon Mumbai testnet . 
+This same can be implemented to swap any two token pair that exist on uniswapv3 protocol over any supported blockchains by uniswap.
+Here I have used Polygon mumbai testnet.
+From the uniswapv3 I have used exactSingleInput function.
 
 ## Available Scripts
 
